@@ -1,0 +1,7 @@
+class student:
+     name = "akhila"
+     def get(self):
+         return sekf.name
+
+s=student()
+print(s.get())
